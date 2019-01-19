@@ -1,2 +1,2 @@
-# py_homework
-Parsing http://blog.revolutionanalytics.com
+# Parsing
+1. http://blog.revolutionanalytics.com
